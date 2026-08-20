@@ -7,3 +7,4 @@ Bem-vindos ao nosso mural!
 Nenhum aviso cadastrado ainda.
 
 ## Desenvolvedores
+moroni
